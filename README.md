@@ -16,4 +16,4 @@ As you can see the application is very simple. We are using the grid items as se
 ---
 
 ### ***Responsive to Different Screen Sizes***
-<img src="https://github.com/ysnhasan1/Using-Grid-and-Flexbox-Together/assets/102024926/bc8d4fcd-3572-448b-9e48-abc62bc5d778" height="350"><br />
+<img src="https://github.com/ysnhasan1/Using-Grid-and-Flexbox-Together/assets/102024926/bc8d4fcd-3572-448b-9e48-abc62bc5d778" height="250"><br />
