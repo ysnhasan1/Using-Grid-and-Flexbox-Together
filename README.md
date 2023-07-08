@@ -10,10 +10,10 @@ The easiest way to add somethings to our grid items is to use Flexbox.
 In this example, I created a Chessboard with Grid and centered chess items very easily with Flexbox. Also note that our website is responsive.
 
 ### ***Using Flexbox For Grid Items***
+
+As you can see the application is very simple. We are using the grid items as selector in the CSS file. Then in this code block  we are setting that "display: flex;". We can now position everything on the grid items or give them the size that we want.
+
 <img src="https://github.com/ysnhasan1/Using-Grid-and-Flexbox-Together/assets/102024926/17331072-237a-485a-9b71-0a4c9be25c68"><br />
-
-
-#### As you can see the application is very simple. We are using the grid items as selector in the CSS file. Then in this code block  we are setting that "display: flex;". We can now position everything on the grid items or give them the size that we want.
 ---
 
 ### ***Responsive to Different Screen Sizes***
